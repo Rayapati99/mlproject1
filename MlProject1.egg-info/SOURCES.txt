@@ -1,0 +1,14 @@
+README.md
+setup.py
+MlProject1.egg-info/PKG-INFO
+MlProject1.egg-info/SOURCES.txt
+MlProject1.egg-info/dependency_links.txt
+MlProject1.egg-info/requires.txt
+MlProject1.egg-info/top_level.txt
+components/__init__.py
+components/data_ingestion.py
+components/data_transformation.py
+components/model_trainer.py
+pipelines/__init__.py
+pipelines/predict_pipeline.py
+pipelines/train_pipeline.py
