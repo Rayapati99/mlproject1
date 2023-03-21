@@ -1,0 +1,2 @@
+[2023-03-21 15:02:08,460] 21 root - INFO - Entered data Ingestion method or component
+[2023-03-21 15:02:08,463] 25 root - INFO - Read the csv data as a dataframe

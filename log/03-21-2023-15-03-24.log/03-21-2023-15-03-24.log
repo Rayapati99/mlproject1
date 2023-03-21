@@ -1,0 +1,4 @@
+[2023-03-21 15:03:26,487] 21 root - INFO - Entered data Ingestion method or component
+[2023-03-21 15:03:26,494] 25 root - INFO - Read the csv data as a dataframe
+[2023-03-21 15:03:26,507] 30 root - INFO - Train Test split initated
+[2023-03-21 15:03:26,517] 35 root - INFO - Ingestion of the data completed
