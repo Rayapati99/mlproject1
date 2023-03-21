@@ -1,2 +1,1 @@
-components
-pipelines
+src
